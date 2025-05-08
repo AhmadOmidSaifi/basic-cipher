@@ -21,3 +21,25 @@ A simple Python script for encrypting and decrypting messages using a basic ciph
 ```bash
 git clone https://github.com/yourusername/basic-cipher.git
 cd basic-cipher
+python Ceases_Cipher.py
+
+📚 Concepts Demonstrated
+String manipulation
+
+ASCII/Unicode character shifting
+
+Functions and user input
+
+Basic encryption logic
+
+## 📌 Future Improvements
+- Add support for different cipher types (e.g., Vigenère, ROT13)
+
+-  GUI version using Tkinter
+
+- Save encrypted messages to file
+
+## 🤝 Contributing
+-- Pull requests are welcome. If you find bugs or want to add new features, feel free to open an issue or contribute directly.
+
+
