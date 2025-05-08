@@ -9,12 +9,12 @@ A simple Python script for encrypting and decrypting messages using a basic ciph
 - Command-line interface (CLI)
 - Easy to modify and extend for other cipher techniques
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Python 3
 - Standard libraries only (no external dependencies)
 
-## 📦 How to Use
+# 📦 How to Use
 
 1. Clone the repository:
 
@@ -32,7 +32,7 @@ Functions and user input
 
 Basic encryption logic
 
-## 📌 Future Improvements
+# 📌 Future Improvements
 - Add support for different cipher types (e.g., Vigenère, ROT13)
 
 -  GUI version using Tkinter
